@@ -1,1 +1,1 @@
-# Generate-color-palette
+# Generate-color
